@@ -2,7 +2,7 @@ package helloworld;
 
 public class HelloWorld {
 public static void main(String[] args) {
-	System.out.println("Hello World,¸Ä¸öĞ¡ÃÛ");
+	System.out.println("Hello World,æ”¹ä¸ªå°èœœ");
 	System.out.println("Cry On My Shoulder");
 	}
 }
